@@ -16,9 +16,10 @@ class Constants
 	const DB_USER = "root";
 
 	// change this according to your account credentials
-	const DB_PASSWORD = "";
+	//empty for default localhost
+	const DB_PASSWORD = "uzyqViLLlyS3";
 
-	// if you wish you create your own name for 
+	// if you wish you create your own name for
 	// Database then change the word "db_storefinder"
 	const DB_DATABASE = "db_eventfinder";
 
